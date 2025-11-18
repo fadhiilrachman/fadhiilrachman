@@ -1,6 +1,6 @@
 
 <a href="https://github.com/fadhiilrachman?tab=repositories" title="Fadhiil Rachman"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhiilrachman&bg_color=151515&text_color=9f9f9f&title_color=fff&layout=compact" /></a>
-<a href="https://github.com/fadhiilrachman" title="Fadhiil Rachman"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadhiilrachman&show_icons=true&theme=gradient&title_color=fff&icon_color=5C9FF0&text_color=9f9f9f&bg_color=151515" /></a>
+<a href="https://github.com/fadhiilrachman" title="Fadhiil Rachman"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadhiilrachman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" /></a>
 
 <h2> 🤙🏻 &nbsp;Get in touch </h2>
 
